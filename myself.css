@@ -1,0 +1,55 @@
+
+img
+{border-radius: 200px;
+        position: fixed;
+        right: 0%;
+        top: 1%;
+        border: 0cap;
+        height: 100px;
+        width: 100px;
+        size: 2px;
+}
+
+p{color: aliceblue;}
+
+
+body
+        {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background:linear-gradient(135deg)
+        color(srgb red green blue);
+        display: block;
+        justify-content: left;
+        align-items: left;
+        height: 100vh;
+        background-image: url(143617.jpg);
+        background-size: 150%;
+        background-repeat: no-repeat;
+        background-position:center
+       
+        
+        }
+        
+.month{color: rgb(222, 10, 10);}
+.week{color: rgb(210, 11, 207);}
+.link{color: rgb(5, 229, 5);}
+.date{position:top;}
+
+.units{color: rgb(44, 244, 74);}
+ .prog{color: rgb(255, 68, 0);}       
+.select{background-color: rgb(183, 222, 9);
+        border-radius:50px ;
+        color: black;
+        height: 30px;
+        width: 70px;
+      
+}
+
+.div{@media screen {600px
+        
+} }
+
+
+
+
+
+
